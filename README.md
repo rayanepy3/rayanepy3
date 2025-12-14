@@ -4,7 +4,7 @@
 
 Passionate about coding and the IT world, I enjoy learning new technologies and building projects.
 
-## Python & APIs
+## Python & APIs Rest
 
 I learned the basics of **Python** and how to work with **APIs**.
 
